@@ -1,0 +1,11 @@
+file_format: "1"
+id: jdactyl
+name: JD Dactyl Manuform BT
+type: shield
+url: https://github.com/jdbaggins/zmk_config_jdactyl
+requires: [pro_micro]
+features: 
+    - keys
+siblings:
+    - jdactyl_left
+    - jdactyl_right
