@@ -1,0 +1,6 @@
+name: zmk-keyboard-jdactyl
+
+build:
+  settings:
+    board_root: .
+
