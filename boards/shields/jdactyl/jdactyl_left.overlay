@@ -1,4 +1,4 @@
-#include "jdactyl.dtsi" // Notice that the main dtsi files are included in the overlay
+#include "jdactyl.dtsi" 
 
 &kscan0 {
     col-gpios
