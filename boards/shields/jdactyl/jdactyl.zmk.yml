@@ -3,7 +3,7 @@ id: jdactyl
 name: JD Dactyl Manuform BT
 type: shield
 url: https://github.com/jdbaggins/zmk_config_jdactyl
-requires: [pro_micro]
+requires: [nice_nano_v2]
 features: 
     - keys
 siblings:
